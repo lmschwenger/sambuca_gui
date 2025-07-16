@@ -22,7 +22,7 @@ Sambuca GUI provides an easy-to-use interface for the sambuca_core package, enab
 
 ### Prerequisites
 
-**Important**: You must install sambuca_core before using this GUI, as it provides the core bio-optical modeling functionality.
+**Important**: You must install [sambuca_core](https://github.com/lmschwenger/sambuca_core) before using this GUI, as it provides the core bio-optical modeling functionality.
 
 ```bash
 # First, install sambuca_core from source
